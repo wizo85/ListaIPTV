@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="165158" tvg-id="" tvg-name="NBA 01: Miami Heat VS Boston Celtics (17-05 8:30PM ET)" tvg-logo="http://playlistone.site:8080/images/90670542defe4cb63c0e0393e13a09c8.png" group-title="NBA",NBA 01: Miami Heat VS Boston Celtics (17-05 8:30PM ET)
+http://playlistone.site:8080/play/WVlhi8JF7ifXMc_-ko8X10qZAJPnZOukMxKknGjTmjfgIzRkuojGlAIQ5ZdC6pmt/ts
+#EXTINF:-1 xui-id="17385" tvg-id="" tvg-name="NBA TV HD" tvg-logo="http://playlistone.site:8080/images/fdf79e8ec4027c0687daa42f94559022.png" group-title="NBA",NBA TV HD
+http://playlistone.site:8080/play/WVlhi8JF7ifXMc_-ko8X12s2zc6_XXgqXBd8aaesNX-C63aQwDFHQ2S7r2JJd-Vq/ts

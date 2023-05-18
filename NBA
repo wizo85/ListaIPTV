@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/jurassic-park-logo-historia-parque-jurasico.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | JURASSIC PARK
+http://playlistone.site:8080/play/WVlhi8JF7ifXMc_-ko8X12OjNbZvtWgnnlz-mz57tTI6bN4wbI6ns_DgKZVHM99P/ts
+#EXTINF:-1 xui-id="165158" tvg-id="" tvg-name="NBA 01: Miami Heat VS Boston Celtics (17-05 8:30PM ET)" tvg-logo="http://playlistone.site:8080/images/90670542defe4cb63c0e0393e13a09c8.png" group-title="NBA",NBA 01: Miami Heat VS Boston Celtics (17-05 8:30PM ET)
+http://playlistone.site:8080/play/WVlhi8JF7ifXMc_-ko8X10qZAJPnZOukMxKknGjTmjfgIzRkuojGlAIQ5ZdC6pmt/ts
